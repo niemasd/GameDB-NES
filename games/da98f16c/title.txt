@@ -1,1 +1,1 @@
-Cabal.nes
+Cabal

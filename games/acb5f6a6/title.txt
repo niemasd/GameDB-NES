@@ -1,1 +1,1 @@
-Flappy.nes
+Flappy

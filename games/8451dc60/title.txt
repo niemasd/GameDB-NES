@@ -1,1 +1,1 @@
-Galaxian.nes
+Galaxian

@@ -1,1 +1,1 @@
-Arkanoid.nes
+Arkanoid

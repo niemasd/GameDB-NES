@@ -1,1 +1,1 @@
-Gun.Smoke.nes
+Gun.Smoke

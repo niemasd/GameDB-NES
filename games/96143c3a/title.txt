@@ -1,1 +1,1 @@
-Mahjong.nes
+Mahjong
