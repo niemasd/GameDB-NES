@@ -1,1 +1,1 @@
-project SHVTERA (World) (v1.02) (NESDev 2023) (Aftermarket) (Unl).nes
+project SHVTERA (World) (v1.02) (NESDev 2023) (Aftermarket) (Unl)

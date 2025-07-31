@@ -1,1 +1,1 @@
-Function (World) (En,Pl) (Aftermarket) (Unl).nes
+Function (World) (En,Pl) (Aftermarket) (Unl)

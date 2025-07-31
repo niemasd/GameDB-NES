@@ -1,1 +1,1 @@
-PROTO DERE .NES (World) (v1.2) (Aftermarket) (Unl).nes
+PROTO DERE .NES (World) (v1.2) (Aftermarket) (Unl)

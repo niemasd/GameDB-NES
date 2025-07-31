@@ -1,1 +1,1 @@
-project SHVTERA (World) (v1.1.0) (Aftermarket) (Unl).nes
+project SHVTERA (World) (v1.1.0) (Aftermarket) (Unl)
